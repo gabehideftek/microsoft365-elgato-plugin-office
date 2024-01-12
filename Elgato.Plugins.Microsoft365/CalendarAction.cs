@@ -37,7 +37,7 @@ public class CalendarAction : GraphAction<CalendarPluginSettings>
         if (!IsGraphApiInitialized)
             return;
 
-        Process.Start(new ProcessStartInfo { FileName = $"https://outlook.live.com/calendar", UseShellExecute = true });
+        Process.Start(new ProcessStartInfo { FileName = $"https://outlook.office.com/calendar", UseShellExecute = true });
 
         await TryUpdateBadge(true);
     }
