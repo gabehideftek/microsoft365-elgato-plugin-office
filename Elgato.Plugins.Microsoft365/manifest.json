@@ -31,11 +31,11 @@
       "PropertyInspectorPath": "PropertyInspector/CalendarAction/Index.html"
     }
   ],
-  "Author": "Marcell Spies",
-  "Description": "Microsoft 365 Actions for Mail and Calendar with support for multiple Accounts",
-  "Name": "Microsoft 365 Actions",
+  "Author": "Hi Def Tek",
+  "Description": "This is a modified version of the code by Marcells Spies that allows you to use Work and School accounts for Microsoft Office 365 Apps. You can access Mail and Calendar with multiple accounts using this code. The original code by Marcells Spies is available here: https://github.com/marcells/streamdeck-microsoft365.",
+  "Name": "Microsoft Office 365 Apps",
   "Icon": "Images/pluginIcon",
-  "URL": "https://github.com/marcells/streamdeck-microsoft365",
+  "URL": "https://github.com/gabehideftek/microsoft-office-365-elgato-plugin",
   "Version": "1.0",
   "CodePath": "Elgato.Plugins.Microsoft365.exe",
   "Category": "Microsoft 365",
